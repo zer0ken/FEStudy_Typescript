@@ -1,6 +1,6 @@
 # 프로젝트 이름
 
-이 프로젝트는 MS AI School TypeScript 스터디를 위한 레포지토리 이빈다.
+이 프로젝트는 MS AI School TypeScript 스터디를 위한 레포지토리 입니다.
 
 ## 시작하기
 
@@ -61,7 +61,7 @@ npm start
 - `yarn`을 사용하는 경우:
 
 ```bash
-    yarn start
+yarn start
 ```
 
 이 명령어는 `src/index.ts` 파일을 실행합니다.
